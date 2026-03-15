@@ -86,6 +86,10 @@ SwarmNavigator/
 
 ## Results
 
+### Swarm in Action
+
+![Swarm Demo](results/swarm_demo.gif)
+
 ### Experiment Comparison
 
 | Experiment                 | Coverage (20 steps) | Coverage (30 steps) | Coverage Heatmap | Notable Behaviors           |
