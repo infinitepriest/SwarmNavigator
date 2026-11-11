@@ -121,7 +121,7 @@ SwarmNavigator/
 Robotics & Reinforcement Learning Engineer  
 [Linkedin: Ayushman Mishra](https://linkedin.com/in/infinitepriest)  
 [GitHub: Ayushman M. (aymisxx)](https://github.com/infinitepriest)  
-Email (Personal): [aymisxx@proton.me]
+Email: [aymisxx@proton.me]
 
 ---
 
