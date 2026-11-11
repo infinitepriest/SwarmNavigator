@@ -118,10 +118,10 @@ SwarmNavigator/
 ## Author
 
 **Ayushman Mishra**  
-Robotics & Reinforcement Learning Engineer  
+Robotics & Ctrl Systems Engineer  
 [Linkedin: Ayushman Mishra](https://linkedin.com/in/infinitepriest)  
-[GitHub: Ayushman M. (aymisxx)](https://github.com/infinitepriest)  
-Email: [aymisxx@proton.me]
+[GitHub: Ayushman M. (infinitepriest)](https://github.com/infinitepriest)  
+Email ID: [aymisxx@proton.me]
 
 ---
 
