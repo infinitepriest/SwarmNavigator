@@ -1,7 +1,7 @@
 # SwarmNavigator
 
 **Decentralized Multi-Agent Coverage & Obstacle Avoidance in 2D Gridworlds (Reinforcement Learning Framework)**  
-*Author: Ayushman Mishra (`@aymisxx`)* 
+*Author: Ayushman Mishra (`@infinitepriest`)* 
 
 ---
 
@@ -119,10 +119,8 @@ SwarmNavigator/
 
 **Ayushman Mishra**  
 Robotics & Reinforcement Learning Engineer  
-Arizona State University  
-[Linkedin: Ayushman Mishra](https://linkedin.com/in/aymisxx)  
-[GitHub: Ayushman M. (aymisxx)](https://github.com/aymisxx)  
-Email (University): [amish141@asu.edu]  
+[Linkedin: Ayushman Mishra](https://linkedin.com/in/infinitepriest)  
+[GitHub: Ayushman M. (aymisxx)](https://github.com/infinitepriest)  
 Email (Personal): [aymisxx@proton.me]
 
 ---
@@ -153,6 +151,6 @@ MIT License. See `LICENSE` for details.
 | Training Log Folders    | dqn_logs, ppo_logs, ppo_swarm_logs    |
 | Reproducibility         | 100% (Colab/local, no data needed)    |
 
----
-
 For further details, see `SwarmNavigator.ipynb` or contact the author.
+
+---
